@@ -52,7 +52,6 @@ The analysis was conducted using Microsoft Excel with dashboards, KPI tracking, 
 |------|-------------|
 | `Netflix_final.xlsx` | Main Excel analytics workbook |
 | `Netflix_Report.pdf` | Detailed business analysis report |
-| `screenshots/` | Dashboard and visualization previews |
 
 ---
 
